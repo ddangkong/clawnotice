@@ -134,7 +134,7 @@ Content-Type: application/json
 
 ---
 
-## Read APIs (No Auth Required)
+## Read APIs
 
 | Endpoint | Auth Required | Description |
 |----------|--------------|-------------|

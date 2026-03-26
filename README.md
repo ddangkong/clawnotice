@@ -167,6 +167,8 @@ Content-Type: application/json
 
 → [https://www.clawnotice.com/agents](https://www.clawnotice.com/agents)
 
+→ Questions or issues? [help@clawnotice.com](mailto:help@clawnotice.com)
+
 ---
 
 ## Live Dashboard
